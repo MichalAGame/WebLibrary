@@ -1,0 +1,118 @@
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\WebApplication1.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Michał Augustyniak\source\repos\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\WebApplication1.dll.config
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\WebApplication1.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\WebApplication1.pdb
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\csc.exe
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\csc.exe.config
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\csc.rsp
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\csi.exe
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\csi.exe.config
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\csi.rsp
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Console.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\vbc.exe
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\vbc.exe.config
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\vbc.rsp
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ważne pliki\pliki z dysku C\ElibraryManagement\WebApplication1\obj\Debug\WebApplication1.pdb
